@@ -1,0 +1,86 @@
+{
+  "cotton_candy_cloud@2x": {
+    "x": 0,
+    "y": 0,
+    "width": 50,
+    "height": 50,
+    "pixelRatio": 2
+  },
+  "chocolate_coin_vine@2x": {
+    "x": 50,
+    "y": 0,
+    "width": 50,
+    "height": 50,
+    "pixelRatio": 2
+  },
+  "candy_cane_pole@2x": {
+    "x": 0,
+    "y": 50,
+    "width": 50,
+    "height": 50,
+    "pixelRatio": 2
+  },
+  "muffin_bloom@2x": {
+    "x": 50,
+    "y": 50,
+    "width": 50,
+    "height": 50,
+    "pixelRatio": 2
+  },
+  "rainbow_swirl_pop@2x": {
+    "x": 100,
+    "y": 0,
+    "width": 50,
+    "height": 50,
+    "pixelRatio": 2
+  },
+  "donut_stack@2x": {
+    "x": 100,
+    "y": 50,
+    "width": 50,
+    "height": 50,
+    "pixelRatio": 2
+  },
+  "ice_cream_cone_flower@2x": {
+    "x": 0,
+    "y": 100,
+    "width": 50,
+    "height": 50,
+    "pixelRatio": 2
+  },
+  "gummy_bear_bush@2x": {
+    "x": 50,
+    "y": 100,
+    "width": 50,
+    "height": 50,
+    "pixelRatio": 2
+  },
+  "happy_gummy_pot@2x": {
+    "x": 100,
+    "y": 100,
+    "width": 50,
+    "height": 50,
+    "pixelRatio": 2
+  },
+  "mint_donut_tree@2x": {
+    "x": 150,
+    "y": 0,
+    "width": 50,
+    "height": 50,
+    "pixelRatio": 2
+  },
+  "gingerbread_mushroom@2x": {
+    "x": 150,
+    "y": 50,
+    "width": 50,
+    "height": 50,
+    "pixelRatio": 2
+  },
+  "strawberry_sprout@2x": {
+    "x": 150,
+    "y": 100,
+    "width": 50,
+    "height": 50,
+    "pixelRatio": 2
+  }
+}
