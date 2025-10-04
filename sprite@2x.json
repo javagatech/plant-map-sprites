@@ -1,82 +1,82 @@
 {
-  "cotton_candy_cloud@2x": {
+  "cotton_candy_cloud": {
     "x": 0,
     "y": 0,
     "width": 256,
     "height": 256,
     "pixelRatio": 2
   },
-  "chocolate_coin_vine@2x": {
+  "chocolate_coin_vine": {
     "x": 256,
     "y": 0,
     "width": 256,
     "height": 256,
     "pixelRatio": 2
   },
-  "candy_cane_pole@2x": {
+  "candy_cane_pole": {
     "x": 0,
     "y": 256,
     "width": 256,
     "height": 256,
     "pixelRatio": 2
   },
-  "muffin_bloom@2x": {
+  "muffin_bloom": {
     "x": 256,
     "y": 256,
     "width": 256,
     "height": 256,
     "pixelRatio": 2
   },
-  "rainbow_swirl_pop@2x": {
+  "rainbow_swirl_pop": {
     "x": 512,
     "y": 0,
     "width": 256,
     "height": 256,
     "pixelRatio": 2
   },
-  "donut_stack@2x": {
+  "donut_stack": {
     "x": 512,
     "y": 256,
     "width": 256,
     "height": 256,
     "pixelRatio": 2
   },
-  "ice_cream_cone_flower@2x": {
+  "ice_cream_cone_flower": {
     "x": 0,
     "y": 512,
     "width": 256,
     "height": 256,
     "pixelRatio": 2
   },
-  "gummy_bear_bush@2x": {
+  "gummy_bear_bush": {
     "x": 256,
     "y": 512,
     "width": 256,
     "height": 256,
     "pixelRatio": 2
   },
-  "happy_gummy_pot@2x": {
+  "happy_gummy_pot": {
     "x": 512,
     "y": 512,
     "width": 256,
     "height": 256,
     "pixelRatio": 2
   },
-  "mint_donut_tree@2x": {
+  "mint_donut_tree": {
     "x": 768,
     "y": 0,
     "width": 256,
     "height": 256,
     "pixelRatio": 2
   },
-  "gingerbread_mushroom@2x": {
+  "gingerbread_mushroom": {
     "x": 768,
     "y": 256,
     "width": 256,
     "height": 256,
     "pixelRatio": 2
   },
-  "strawberry_sprout@2x": {
+  "strawberry_sprout": {
     "x": 768,
     "y": 512,
     "width": 256,
